@@ -2,7 +2,7 @@
 
 ## Team Achievement
 
-2nd Place — Mastercard Data Quest 2026
+2nd Place - Mastercard Data Quest 2026
 
 Role: Team Lead
 
