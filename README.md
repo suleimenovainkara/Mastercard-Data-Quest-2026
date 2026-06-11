@@ -1,5 +1,11 @@
 # Hidden Entrepreneur Detection Using Transaction Data
 
+## Team Achievement
+
+2nd Place — Mastercard Data Quest 2026
+
+Role: Team Lead
+
 ## Overview
 
 This project was developed for Mastercard Data Quest 2026 and focuses on identifying hidden commercial activity among individual bank cardholders.
@@ -60,11 +66,6 @@ Risk segmentation results:
 - presentation/ – competition presentation
 - results/ – prediction outputs and visualizations
 
-## Team Achievement
-
-2nd Place — Mastercard Data Quest 2026
-
-Role: Team Lead
 
 ## Technologies
 
